@@ -1,0 +1,27 @@
+1. Did that particular submission cover all needed commands? 
+   Yes
+
+2. If not, what commands were missing? 
+
+3. Do the sequences in which the commands have been written make sense?
+ (try it out in your GIT console) 
+ 
+   I have tried it and all the commands make sense
+ 
+ 
+4. What are the differences between your submission and that particular submission
+ you are reviewing? 
+ 
+    The difference is mine is executed on Terminal MacOs and the submission I am reviewing is a list command
+    in Linux
+ 
+ 
+5. If you have found some other useful commands that were missing
+ in the tutorial file, what were these? 
+
+
+6. Try out the Javascript based web tool  https://learngitbranching.js.org/
+ to learn more about branching branching and write down your experience of using it
+  - - does it help you to understand?
+   This website actually cover all about the content of git commands and it extremely helpful for those people
+   who are looking for a trustful source to learn about GIT 
